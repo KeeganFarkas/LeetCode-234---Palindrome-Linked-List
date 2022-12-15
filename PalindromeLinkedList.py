@@ -1,3 +1,5 @@
+# Runtime: 856ms - Beats 87.5%
+# Memory: 46.9MB - Beats 22.16%
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
