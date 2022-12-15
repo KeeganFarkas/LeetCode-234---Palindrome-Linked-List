@@ -1,3 +1,5 @@
+// Runtime: 270ms - Beats 85.62%
+// Memory: 132.6MB - Beats 6.76%
 /**
  * Definition for singly-linked list.
  * struct ListNode {
